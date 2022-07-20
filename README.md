@@ -20,3 +20,5 @@
 ![R](https://img.shields.io/badge/R-%23013243.svg?style=for-the-badge&logo=R&logoColor=white)
 ![spark](https://img.shields.io/badge/spark-%23013243.svg?style=for-the-badge&logo=spark&logoColor=white)
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinnyRyu&hide=stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
